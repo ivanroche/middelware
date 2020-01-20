@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Exemple Middleware
+                    Exemple Middleware 1
                 </div>
 
                 <div class="links">
